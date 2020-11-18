@@ -3,8 +3,9 @@
 Galerie de notebooks Python pour montrer comment on peut utiliser les notebooks pour enseigner les mathématiques
 
 ## Liens vers la démo
-- **Visualiser les notebooks :** https://nbviewer.jupyter.org/github/inrialearninglab/NotebookMathDemo/tree/master/
-- **Manipuler les notebooks :** https://mybinder.org/v2/gh/inrialearninglab/NotebookMathDemo/master
+- **Visualiser les notebooks :** [![nbviewer](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/inrialearninglab/NotebookMathDemo/tree/master/)
+- **Manipuler les notebooks :**  [![Binder](https://mybinder.org/badge_logo.svg)](
+               https://mybinder.org/v2/gh/inrialearninglab/NotebookMathDemo/master) 
 
 ## Sources
 Ces notebooks ont été recopiés depuis divers sources pour vous montrer comment certains enseignants utilisent les notebooks en math :
